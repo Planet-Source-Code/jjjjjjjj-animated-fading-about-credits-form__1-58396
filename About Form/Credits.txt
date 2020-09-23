@@ -1,0 +1,28 @@
+'***************************************
+'(About / Credits) Form - Animated
+'***************************************
+
+'***************************************
+'By     Jim Jose
+'email  jimjosev33@yahoo.com
+'***************************************
+
+'***************************************
+'This code is only in initialstage.
+'It can only draw in a perticular font
+'and no text allining is added. But
+'it is sufficient to my needs.
+'
+'You can choose any Start/Mid/End
+'fading Color. I set those accoring to
+' my background picture. You can
+'also choose the shading region.
+'cRegion=1/6 means the 1/6th height
+'of  the picturebox will be shaded at
+'top  and bottom.
+'
+'If you like this I am ready to
+'complete it.Yourown upgrades are also
+'welcomed.( If so please inform me too)
+'Kindly give me your Comments/suggessions.
+'***************************************
